@@ -15,10 +15,11 @@ public class Main {
 		
 			int a;
 			int b;
+			int c;
 			
 			a = 55;
 			b = 10;
-			
+			c = 0;
 			System.out.println(a + "-" + b + "=" + (a - b));
 		
 			a = 2008;
