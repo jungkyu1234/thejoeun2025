@@ -16,10 +16,13 @@ public class Main {
 			int a;
 			int b;
 			int c;
+			int d;
 			
 			a = 55;
 			b = 10;
 			c = 0;
+			d = 0;
+			
 			System.out.println(a + "-" + b + "=" + (a - b));
 		
 			a = 2008;
