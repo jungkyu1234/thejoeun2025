@@ -6,7 +6,6 @@ public class Tire {
 	public Tire() {
 		System.out.println("Tire Constructor");
 		size = 0;
-	
 	}
 
 	public int getSize() {
